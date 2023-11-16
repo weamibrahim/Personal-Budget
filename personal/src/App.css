@@ -1,0 +1,12 @@
+.background{
+    background-image: url('../public/images/close-up-person-s-hand-writing-spiral-notepad-with-office-supplies-blue-desk.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+label{
+    color: white;
+}
+.error{
+    color: red;
+}
