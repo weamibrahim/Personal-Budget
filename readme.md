@@ -10,7 +10,7 @@ and delete income and expense records, and display a summary of their financial 
 ## **FEATURES**
 
 - **User-friendly Interface**<br>
-  The website offers a  user-friendly interface for easy and enjoyable food discovery and online ordering.
+  The website offers a  user-friendly interface .
 
 
 
