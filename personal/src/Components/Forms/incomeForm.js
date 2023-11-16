@@ -57,7 +57,7 @@ const IncomeForm = ({ onAddRecord }) => {
   return (
     <div className='d-flex justify-content-center background'>
         <div className='container-fluid bg '>
-<h2 className='text-center my-2 text-white'> Create New income</h2>
+<h2 className='text-center my-4 text-white'> Create New income</h2>
 <div className='d-flex justify-content-center'>
       <form onSubmit={handleSubmit} style={{ boxShadow: " 5px 5px 5px 5px #c8c8c8", padding: "10px", width: "500px" }} className='my-5 ' >
         <label htmlFor="amount">Amount:</label>

@@ -81,7 +81,7 @@ const UpdateForm = () => {
   return (
     <div className='d-flex justify-content-center background'>
     <div className='container-fluid bg '>
-<h2 className='text-center my-2 text-white'> update</h2>
+<h2 className='text-center my-4 text-white'> update</h2>
 <div className='d-flex justify-content-center'>
       
       <form style={{ boxShadow: " 5px 5px 5px 5px #c8c8c8", padding: "10px", width: "500px" }} className='my-5'>
