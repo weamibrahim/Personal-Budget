@@ -24,7 +24,7 @@ and delete income and expense records, and display a summary of their financial 
 
 - **CLONE THE REPOSITORY**
   <pre>
-    git clone https://github.com/weamibrahim/Persoal-Budget
+    git clone https://github.com/weamibrahim/Personal-Budget
   </pre>
 
 
