@@ -71,10 +71,7 @@ const UpdateForm = () => {
     // Save records to local storage
     localStorage.setItem('Records', JSON.stringify(storedRecords));
 
-    // You can add additional logic here if needed
-
-    // Redirect or navigate to the Home component
-    // Example: history.push('/');
+    // Navigate back to home page
     navigate('/');
   };
 
